@@ -20,12 +20,15 @@ modular multiplication by N.
 ESC => end program
 
 N => edit multiplier
+
 M => edit modulo
 
 UP => add 1 to current value
+
 DOWN => subtract 1 from current value
 
 SHIFT + UP => add 0.01 if editing N, else add 1
+
 SHIFT + DOWN => subtract 0.01 if editing N, else sub 1
 
 ## Gallery
