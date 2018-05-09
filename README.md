@@ -38,3 +38,4 @@ SHIFT + DOWN => subtract 0.01 if editing N, else sub 1
 ![n41](https://github.com/swarmalator/mod-times-tables/blob/master/images/n41.png)
 ![n99](https://github.com/swarmalator/mod-times-tables/blob/master/images/n99.png)
 ![n134](https://github.com/swarmalator/mod-times-tables/blob/master/images/n134.png)
+This project is licensed under the terms of the MIT license.
