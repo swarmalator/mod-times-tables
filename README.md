@@ -1,6 +1,7 @@
 # Modular Times Tables
 
 Interactive modular multiplication tables plotted on a circle.
+The project was inspired by this youtube video by Mathologer https://www.youtube.com/watch?v=qhbuKbxJsk8
 
 ## Compile (Gradle)
 
