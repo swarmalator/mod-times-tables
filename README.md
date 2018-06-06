@@ -2,12 +2,6 @@
 
 Interactive modular multiplication tables plotted on a circle.
 
-## Compile (Gradle)
-
-1. Download and extract anywhere.
-2. Open the terminal in the directory with the gradle.build script file
-3. Type: gradle build run
-
 ## Instructions
 
 Select the modulus number M (number of subdivisions of the circle) and
